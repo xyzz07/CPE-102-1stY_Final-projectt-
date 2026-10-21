@@ -1,10 +1,10 @@
 Case Name: Moonlit Heist
 Case File Ref: #MH-2026-1019
-Victim: The Owner
+Victim: Grace Ivory
 Stolen Property: The Moonlit Pearl Earrings
 
 
-CASE OVERVIEW
+# CASE OVERVIEW
 On the morning of September 19, a high-value internal theft occurred at the estate. The Moonlit Pearl Earrings, a priceless heirloom gifted to Rose Ivory by her grandmother, were reported missing from her private dressing room.
 
 CRIME SCENE
